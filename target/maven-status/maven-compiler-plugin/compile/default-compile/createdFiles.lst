@@ -1,0 +1,4 @@
+chat\Application.class
+chat\WebSocketConfiguration.class
+chat\domain\Message.class
+chat\controller\ChatController.class
